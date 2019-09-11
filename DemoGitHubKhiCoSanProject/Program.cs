@@ -10,7 +10,7 @@ namespace DemoGitHubKhiCoSanProject
     {
         static void Main(string[] args)
         {
-            public string test { get; set; }
+            public int ok { get; set; }
     }
     }
 }
